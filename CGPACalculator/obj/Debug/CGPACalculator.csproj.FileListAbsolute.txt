@@ -1,0 +1,5 @@
+C:\Users\Hp\OneDrive\Desktop\CGPACalculator\CGPACalculator\bin\Debug\CGPACalculator.exe.config
+C:\Users\Hp\OneDrive\Desktop\CGPACalculator\CGPACalculator\obj\Debug\CGPACalculator.csprojResolveAssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\CGPACalculator\CGPACalculator\obj\Debug\CGPACalculator.Form1.resources
+C:\Users\Hp\OneDrive\Desktop\CGPACalculator\CGPACalculator\obj\Debug\CGPACalculator.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Desktop\CGPACalculator\CGPACalculator\obj\Debug\CGPACalculator.csproj.GenerateResource.Cache
